@@ -36,8 +36,8 @@
 
 <p>
   <a href="#"><img alt="AngularDart" src="https://img.shields.io/badge/AngularDart-%2315A6C4.svg?logo=angular&logoColor=white" height="24"></a>
-    <a href="#"><img alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-7952B3.svg?logo=bootstrap&logoColor=white" height="24"></a>
     <a href="#"><img alt="Gin" src="https://img.shields.io/badge/gin-29BEB0.svg?logo=gin&logoColor=white" height="24"></a>
+    <a href="#"><img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi" height="24"></a>
     <a href="#"><img alt="Flutter" src="https://img.shields.io/badge/Flutter-02569B.svg?logo=flutter&logoColor=white" height="24"></a>
     <a href="#"><img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub%20Actions-2671E5.svg?logo=github%20actions&logoColor=white" height="24"></a>
     <a href="#"><img alt="Material Design" src="https://img.shields.io/badge/Material%20Design-0081CB.svg?logo=material-design&logoColor=white" height="24"></a>
