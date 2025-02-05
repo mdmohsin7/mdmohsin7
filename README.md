@@ -81,7 +81,7 @@
 
 - Github: [mdmohsin7](https://github.com/mdmohsin7/)
 - Email: thatceokid@gmail.com
-- Discord: @thatceokid
+- Discord: @mohsinxyz
 - LinkedIn: https://www.linkedin.com/in/thatceokid
-- Website: https://thatceokid.xyz
-- Blog: https://blog.thatceokid.xyz
+- Website: https://mohsin.xyz
+- Blog: https://blog.mohsin.xyz
