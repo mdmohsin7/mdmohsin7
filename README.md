@@ -80,7 +80,7 @@
 ## 🌐 Socials
 
 - Github: [mdmohsin7](https://github.com/mdmohsin7/)
-- Email: thatceokid@gmail.com
+- Email: mohsin.lp710@gmail.com
 - Discord: @mohsinxyz
 - LinkedIn: https://www.linkedin.com/in/mohsinxyz
 - Website: https://mohsin.xyz
