@@ -8,8 +8,8 @@
 
 # 💫 About Me :
 - 😄 Pronouns: He/Him
-- 🔭 I’m currently building [Monumento](https://github.com/AOSSIE-Org/Monumento/tree/gsoc-24).
-- 🌱 I’m currently learning more about Distributed Systems and Backends.
+- 🔭 I’m currently building [Omi](https://github.com/based-hardware/omi).
+- 🌱 I’m currently learning more about Distributed Systems.
 - 👯 I’m looking to collaborate on [Lightning REST](https://github.com/mdmohsin7/lightning-rest/).
 - 💬 Ask me about Flutter or any tech-related stuff.
 - 📫 How to reach me: Check social links below.
