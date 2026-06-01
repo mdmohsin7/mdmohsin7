@@ -84,4 +84,4 @@
 - Discord: @mohsinxyz
 - LinkedIn: https://www.linkedin.com/in/mohsinxyz
 - Website: https://mohsin.xyz
-- Blog: https://blog.mohsin.xyz
+- Blog: https://mohsin.xyz/blog
